@@ -23,7 +23,7 @@ void insertion_sort(int arr[],int n){
 int main(int argc, const char * argv[]) {
     int n,i,arr[5000];
     clock_t start,end;
-    // insert code here...
+   
     printf("enter length of array : ");
     scanf("%d",& n);
     printf("elements of array are initialized\n");
